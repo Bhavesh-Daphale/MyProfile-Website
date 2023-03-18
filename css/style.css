@@ -291,19 +291,25 @@ h5{
 	border-radius: 50px;
 }
 .skills-content .html::before{
-    width: 90%;
+    width: 100%;
 }
 .skills-content .css::before{
-    width: 75%;
+    width: 80%;
 }
 .skills-content .js::before{
-    width: 70%;
+    width: 75%;
 }
 .skills-content .java::before{
     width: 80%;
 }
 .skills-content .mysql::before{
-    width: 85%;
+    width: 90%;
+}
+.skills-content .node::before{
+    width: 60%;
+}
+.skills-content .express::before{
+    width: 60%;
 }
 
 
